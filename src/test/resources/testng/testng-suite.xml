@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Simple Reporter Suite">
+
+  <test name="Wordpress test">
+    <classes>
+      <class name="com.autothon.ui.tests.UILoginTest" />
+      <class name="com.autothon.ui.tests.TestRestAPI" />
+    </classes>
+  </test>
+</suite>

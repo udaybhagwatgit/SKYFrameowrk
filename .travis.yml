@@ -1,0 +1,7 @@
+language: java
+before_install:
+ - chmod +x gradlew
+addons:
+  sauce_connect:
+    username: "uday123"
+    access_key: "2b0dddc6-47ae-4462-a441-89cf5de9af98"
